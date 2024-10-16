@@ -60,3 +60,11 @@ video {
   display: block; 
   margin: 0 auto; 
 }
+
+img {
+  max-width: 100%; 
+  height: auto; 
+  border-radius: 2px; 
+  margin: 0.5rem 0; 
+}
+
