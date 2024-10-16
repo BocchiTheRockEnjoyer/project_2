@@ -53,4 +53,10 @@ p {
 section {
   margin-bottom: 2rem; 
   padding: 1rem;
-  background: #ffffff;
+  background: #356c6f;
+}
+
+video {
+  display: block; 
+  margin: 0 auto; 
+}
