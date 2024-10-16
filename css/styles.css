@@ -8,8 +8,8 @@ body {
 }
 
 header {
-  background: #4CAF50;
-  color: white;
+  background: #ff7f50;
+  color: black;
   text-align: center;
   padding: 2rem;
 }
@@ -19,5 +19,16 @@ footer {
   color: white;
   text-align: center;
   padding: 1rem;
-  position: relative; 
+  position: bottom; 
+}
+
+#content-wrapper {
+  max-width: 800px; 
+  margin: 0 auto; 
+  padding: 2rem;
+}
+
+h1, h2, h3 {
+  font-size: 2rem; 
+  margin-bottom: 1rem; 
 }
