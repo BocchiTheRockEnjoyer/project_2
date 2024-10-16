@@ -31,9 +31,19 @@ footer {
   padding: 2rem;
 }
 
-h1, h2, h3 {
-  font-size: 2rem; 
-  margin-bottom: 1rem; 
+h1 {
+  font-size: 2.5rem; /* Larger font size for h1 */
+  margin-bottom: 1rem; /* Space below h1 */
+}
+
+h2 {
+  font-size: 2rem; /* Medium font size for h2 */
+  margin-bottom: 0.75rem; /* Space below h2 */
+}
+
+h3 {
+  font-size: 1.75rem; /* Smaller font size for h3 */
+  margin-bottom: 0.5rem; /* Space below h3 */
 }
 
 p {
