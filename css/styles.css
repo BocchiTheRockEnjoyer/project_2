@@ -94,3 +94,12 @@ img {
   color: #000000; 
   font-weight: bold; 
 }
+
+#section4 ul {
+  list-style: circle; 
+  padding-left: 20px; 
+} 
+
+#main-content img {
+  border: 2px solid #ffffff; 
+}
