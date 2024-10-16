@@ -1,65 +1,23 @@
-td, th {
-	border: 1px solid;
-    padding: 12px; /* add padding for spacing */
-    text-align: center; /* center text in table cells */
-}
-
-tr:nth-child(even) {
-    background-color: #f9f9f9; /* gives a slight zebera effect to the table */
-}
-
-tr:hover {
-    background-color: #ff7f50; /* hover effect over the table options */
-}
-
-th {
-  background-color: #1d5e84; /* Sets the table header (th) background color to a dark blue (#1d5e84) */
-  color: white;  /* changes the text color to white for better contrast */
-}
- 
-img.planet {
-    width: 170px;
-    height: auto;
-    border-radius: 5px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* gives a smooth transition */
-}
-
-img.planet:hover {
-    transform: scale(1.1); /* when hovered over, it becomes bigger */
-    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); /* adds a shadow to the hover */
-}
-
-table#planets {
-    table-layout: fixed;
-    width: 100%;
-    max-width: 1000px;
-    margin: 0 auto; /* center the table */
-    border-collapse: collapse; /* remove space between table cells */
-    background-color: white;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* add slight shadow */
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
-    text-align: center;
-    /* background-image: url('../images/background.png'); 
-    background-size: contain;  
-    background-repeat: no-repeat;
-    background-position: bottom; 
-    background-attachment: scroll; */
-    background-color: #293d48; /* this colour is used to fill up the page */
+  font-family: 'Roboto', sans-serif; 
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
 }
 
-h1 {
-    color: #ffffff;
-    margin-bottom: 20px;
-    font-size: 2.5em;
+header {
+  background: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 2rem;
 }
 
-
-td:first-child {
-    font-weight: bold;
-    background-color: #f0f0f0;
+footer {
+  background: #333; 
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  position: relative; 
 }
