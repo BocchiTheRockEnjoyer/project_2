@@ -6,6 +6,7 @@ body {
   padding: 0;
   line-height: 1.6;
   background-color: #293d48;
+  margin-bottom: 1rem;
 }
 
 header {
@@ -102,4 +103,13 @@ img {
 
 #main-content img {
   border: 2px solid #ffffff; 
+}
+
+
+body {
+  font-size: 1rem; 
+}
+
+h2 {
+  margin-bottom: 1rem; 
 }
