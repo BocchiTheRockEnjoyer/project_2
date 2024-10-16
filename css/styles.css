@@ -12,7 +12,7 @@ header {
   background: #ea4e14;
   color: black;
   text-align: center;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 footer {
@@ -90,7 +90,7 @@ img {
 }
 
 #main-nav a {
-  text-decoration: orange wavy underline;
-  color: #333; 
+  text-decoration: black wavy underline;
+  color: #000000; 
   font-weight: bold; 
 }
