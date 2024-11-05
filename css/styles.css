@@ -31,6 +31,7 @@ footer {
   max-width: 800px; 
   margin: 0 auto; 
   padding: 2rem;
+  position: relative;
 }
 
 h1 {
@@ -155,5 +156,5 @@ h2 {
 .album p {
   margin: 0;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 1.875rem;
 }
