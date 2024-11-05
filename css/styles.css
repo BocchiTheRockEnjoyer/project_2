@@ -172,20 +172,5 @@ h2 {
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
 
-.section-style {
-  float: right;
-  width: 45%;
-  margin-left: 20px;
-  padding: 10px;
-  background-color: #f4f4f9;
-  border-radius: 8px;
-}
-
-.section-style img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin-bottom: 10px;
-}
 
 /* code pretty please update */ 
