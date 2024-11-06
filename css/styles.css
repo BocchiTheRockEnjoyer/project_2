@@ -4,14 +4,6 @@
   overflow: auto; 
 }
 
-#section1 img {
-  margin-bottom: 2rem; 
-  padding: 1rem;
-  background: #356c6f;
-  float: middle; 
-  width: 80%; 
-  margin-right: 4%; 
-}
 
 body {
   font-family: 'Roboto', Consolas, Palatino; 
