@@ -78,9 +78,6 @@ img {
   margin: 0.5rem 0; 
 }
 
-img:active {
-  transform: scale(2);
-}
 
 #main-nav {
   text-align: center; 
