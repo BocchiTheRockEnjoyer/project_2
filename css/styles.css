@@ -78,6 +78,12 @@ img {
   margin: 0.5rem 0; 
 }
 
+#section2h::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 #section2h img {
   float: left;
 }
