@@ -78,6 +78,9 @@ img {
   margin: 0.5rem 0; 
 }
 
+#section2h img {
+  float: left;
+}
 
 #main-nav {
   text-align: center; 
