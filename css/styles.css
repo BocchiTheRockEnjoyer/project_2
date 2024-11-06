@@ -89,18 +89,21 @@ img {
 #main-nav ul {
   list-style: none; 
   padding: 0; 
-  margin: 0; 
+  margin: 0;
+  position: sticky; 
 }
 
 #main-nav li {
   display: inline; 
   margin: 0 1.5rem; 
+  position: sticky;
 }
 
 #main-nav a {
   text-decoration: black wavy underline;
   color: #000000; 
   font-weight: bold; 
+  position: sticky;
 }
 
 #section4 ul {
